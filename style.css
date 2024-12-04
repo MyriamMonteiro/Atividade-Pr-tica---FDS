@@ -1,6 +1,6 @@
 body {
    font-family: "futura";
-   margin: 30px;
+   margin: 30px auto;
    background-color: #f8f5f0;
    text-align: center;
    color: #7D4A14;
@@ -51,7 +51,7 @@ ol {
   padding: 20px;
   padding-left: 50px;
   list-style: disc;
-  background-color: #d9e5b5;
+  background-color: #f2d7d5;
   border-radius: 20px;
 }
 li {
